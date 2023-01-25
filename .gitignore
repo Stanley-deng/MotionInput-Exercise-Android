@@ -1,0 +1,8 @@
+runHands.sh
+runPose.sh
+.bashrc
+installPose.sh
+/bazel-bin
+/bazel-MotionInput-Exercise
+/bazel-out
+/bazel-testlogs
